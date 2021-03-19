@@ -3,15 +3,17 @@
 This work focused on applying PCA to reduce dimensions for genome analysis. The original dataset is (995x10103). Here I explored with at most first 4 principal components and related knowledge domain. Codes are explained in ipynb file, please feel free to check it out.
 
 ### Using Principal Component 1 and Principal Component 2 for Analysis
+(distinguished by population)
+<div style="text-align:center"><img src="./Images/pic3.png" width="500">
 
-![plot](./Images/pic1.png)
-
-### Using Principal Component 1 and Principal Component 3 for Analysis (distinguished by gender 1 = male / 2 = female)
+### Using Principal Component 1 and Principal Component 3 for Analysis 
+(distinguished by gender 1 = male / 2 = female)
 
 <div style="text-align:center"><img src="./Images/pic2.png" width="500">
 
-### Using Principal Component 1 and Principal Component 4 for Analysis (distinguished by population)
+### Using Principal Component 1 and Principal Component 4 for Analysis 
+(distinguished by population)
 
-![plot](./Images/pic3.png)
+<div style="text-align:center"><img src="./Images/pic3.png" width="500">
 
 For more details feel free to check the .ipynb file.
