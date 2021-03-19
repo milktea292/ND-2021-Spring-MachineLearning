@@ -9,6 +9,7 @@ This work focused on applying PCA to reduce dimensions for genome analysis. The 
 ### Using Principal Component 1 and Principal Component 3 for analysis (distinguished by gender 1 = male / 2 = female)
 
 ![plot](./Images/pic2.png)
+<img src="./Images/pic2.png" width="100" height="100">
 
 ### Using Principal Component 1 and Principal Component 4 for analysis (distinguished by population)
 
