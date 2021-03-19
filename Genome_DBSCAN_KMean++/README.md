@@ -4,7 +4,7 @@ This work focused on applying DBSCAN and KMEAN++ models to perform unsupervised 
 The size of the original dataset is (995 rows × 10104 columns). 
 Here I utilized the first and second principal component for unsupervised learning. Codes are explained in ipynb file, please feel free to check it out.
 
-### Using First and Second Principal Component Graph for Unsupervised Learning
+### Using First vs Second Principal Component Graph for Unsupervised Learning
 <div style="text-align:center"><img src="./Images/pic1.png" width="500">
 
 ### Using KMEANS++ Model to Perform Unsupervised Learning
