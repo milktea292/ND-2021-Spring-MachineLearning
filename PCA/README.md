@@ -4,4 +4,4 @@ This work focused on applying PCA to reduce dimensions for genome analysis. Here
 
 ## Some visualization
 
-
+![plot](./images/pipeline.png)
