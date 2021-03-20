@@ -1,6 +1,6 @@
 ## Using PCA for Genome Analysis
 
-This work focused on applying PCA to reduce dimensions for genome analysis. The size of the original dataset is (995 rows × 10104 columns). Here I explored with at most the first 4 principal components and geographic knowledge domain. Codes are explained in ipynb file, please feel free to check it out.
+This work focused on applying PCA to reduce dimensions for genome analysis. The size of the original dataset is (995 rows × 10104 columns). Here I explored at most the first 4 principal components with geographic knowledge domain. Codes are explained in ipynb file, please feel free to check it out.
 
 ### Using Principal Component 1 and Principal Component 2 for Analysis
 (distinguished by population)
