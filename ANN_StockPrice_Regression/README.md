@@ -1,7 +1,7 @@
 ## Design an ANN model for predicting stock price
 
 This work focused on designing an ANN model to predict NVDA stock price. Here is the dataset that I am using:
-<div style="text-align:center"><img src="./Images/NVDA_dataset.jpg" width="500">
+<div style="text-align:center"><img src="./images/NVDA_dataset.jpg" width="500">
 
 ### Using Principal Component 1 and Principal Component 2 for Analysis
 (distinguished by population)
