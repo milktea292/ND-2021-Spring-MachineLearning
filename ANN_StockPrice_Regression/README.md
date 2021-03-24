@@ -1,7 +1,7 @@
 ## Design an ANN model for predicting the NVDAstock price from 1999-2021
 
 This work focused on designing an ANN model to predict NVDA stock price. 
-For the dataset, I download the csv file from https://finance.yahoo.com/quote/NVDA/history/. To make this mini-project simple, I only use 'Adj Close Price' as my datapoints. Here is the visualization of the dataset I used. This work splited the dataset into 60:20:20 for train:val:test, and used n-prior days technique to deal with time-series regression problems.
+For the dataset, I download the csv file from https://finance.yahoo.com/quote/NVDA/history/. To make this mini-project simple, I only use 'Adj Close Price' as my datapoints. Here is the visualization of the dataset I used. This work splited the dataset into 60:20:20 for train:val:test, and used the n-prior days technique to deal with time-series regression problems.
 <div style="text-align:center"><img src="./images/NVDA_dataset.jpg" width="500">
 
 ### MSE performance of using different ANN architectures 
