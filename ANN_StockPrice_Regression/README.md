@@ -10,4 +10,4 @@ For the dataset, I downloaded the csv file from https://finance.yahoo.com/quote/
 ### MSE prediction performance of using different ANN architectures 
 <div style="text-align:center"><img src="./images/10-prior_day_prediction_plot.jpg" width="500">
   
-here I just list 10-prior days' performance. For more info, feel free to check on my ipynb file
+here I just list 10-prior days' performances. For more info, feel free to check on my ipynb file
