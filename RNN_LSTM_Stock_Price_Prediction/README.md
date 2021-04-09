@@ -5,7 +5,7 @@ For the dataset, I downloaded the csv file from https://finance.yahoo.com/quote/
 <div style="text-align:center"><img src="./images/NVDA_dataset.jpg" width="500">
 
 Here I used my 7-40-1 ANN model as an experiment, and explored different activation functions at hidden layers while setting activation function at output layer as relu.
-<div style="text-align:center"><img src="./images/MSE_performance_ANN_diff_activation_functions_with_minmax_scalor.jpg" width="500">
+
 
 ## Data-Processing MinMax-Scaler are all applied in following results
 
@@ -22,3 +22,5 @@ Here I used my 7-40-1 ANN model as an experiment, and explored different activat
  <div style="text-align:center"><img src="./images/LSTM_Predictions_vs_GroundTruth_with_minmax_scaler.jpg" width="500">
   
 here I just list 10-prior days' performances. For more info, feel free to check on my ipynb file
+
+# ipynb code will be updated after April 12th 2021
